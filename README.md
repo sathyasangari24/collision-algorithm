@@ -1,2 +1,2 @@
-# collision-algorithm
-Collision algorithm for collision between two sprite objects
+# collisionAlgorithm
+Algorithm to detect collision between two objects
